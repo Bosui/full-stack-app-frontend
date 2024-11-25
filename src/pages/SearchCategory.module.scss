@@ -1,0 +1,23 @@
+
+.container {
+  display: flex;
+  gap: 2rem;
+}
+
+.categories {
+  inline-size: 30%;
+}
+
+.title {
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  margin-block-end: 2rem;
+}
+
+.categoryContainer {
+  inline-size: 70%;
+}
+
+.businessList {
+  grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,9 @@
+
+.rootContainer {
+  padding: 4rem;
+}
+
+.authContainer {
+  block-size: calc(100vh - 117px);
+  background-color: vars.$background-color; // Naudokite kintamąjį iš variables failo
+}
