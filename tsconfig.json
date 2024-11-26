@@ -28,7 +28,8 @@
   },
   "include": [
     "vite.config.ts",
-    "src"
+    "src",
+    "sever.js"
   ],
   "references": [
     {
